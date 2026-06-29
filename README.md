@@ -1,2 +1,2 @@
 # Full-Stack-Project-2026
-This website is for an Aluminum Construction business. 
+This website represents a company specializing in aluminum structures and fabrication for modern construction projects. 
